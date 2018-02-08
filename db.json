@@ -1,4 +1,5 @@
-[
+{
+	"mynews" :[
 				{
 					"id":1,
 					"title":"US-led strikes kill dozens in Syria",
@@ -30,4 +31,4 @@
 					"pubDate": "Wed, 07 Feb 2018 16:25:13 GMT"
 				}
 	]
-
+}
