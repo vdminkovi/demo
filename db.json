@@ -5,14 +5,16 @@
 					"title":"US-led strikes kill dozens in Syria",
 					"link": "http://www.cnn.com/collections/intl-syrian-kurds-nato-ally/",
 					"description": "South Korea braces for extremely cold and concerning temperatures as it prepares to host the 2018 Winter Olympics. CNN's Ivan Watson reports.",
-					"pubDate": "Thu, 08 Feb 2018 05:13:42 GMT"				
+					"pubDate": "Thu, 08 Feb 2018 05:13:42 GMT",
+					"img" : "http://i2.cdn.turner.com/money/dam/assets/180206105557-for-investing-market-down-2-124x70.jpg"
 				},
 				{
 					"id":2,
 					"title":"Report: Gay Olympian turns down Pence meeting",
 					"description": "US Olympic figure skater Adam Rippon reportedly turned down a meeting with Vice President Mike Pence after criticizing him for his stance on gay rights.",
 					"link": "http://www.cnn.com/2018/02/07/politics/adam-rippon-mike-pence-winter-olympics/index.html",
-					"pubDate": "Thu, 08 Feb 2018 05:27:28 GMT"
+					"pubDate": "Thu, 08 Feb 2018 05:27:28 GMT",
+					"img" : "http://i2.cdn.turner.com/money/dam/assets/180208191402-stock-market-feb-8-124x70.jpg"
 		
 				},
 				{
@@ -20,7 +22,8 @@
 					"title": "Right-wing media obsesses over FBI text message story; hours later it's debunked",
 					"link": "http://money.cnn.com/2018/02/07/media/right-wing-media-fbi-text-message-clinton-investigation/index.html",
 					"description":"One in five people working at Britain's Parliament say they have experienced or witnessed sexual harassment or inappropriate behavior over the past year, according to a new report published Thursday.",
-					"pubDate": "Wed, 07 Feb 2018 23:55:59 GMT"
+					"pubDate": "Wed, 07 Feb 2018 23:55:59 GMT",
+					"img" : "http://i2.cdn.turner.com/money/dam/assets/160315140055-custom-market-down-124x70.jpg"
 	
 				},
 				{
@@ -28,7 +31,8 @@
 					"title":"Millions of Germans getting a 28-hour work week",
 					"link": "http://money.cnn.com/2018/02/07/news/economy/germany-28-hour-work-week/index.html",
 					"description": "A former Alaska Airlines pilot plans to plead guilty in California to flying with a blood-alcohol level three times the legal limit for pilots.",
-					"pubDate": "Wed, 07 Feb 2018 16:25:13 GMT"
+					"pubDate": "Wed, 07 Feb 2018 16:25:13 GMT",
+					"img" : "http://images.outbrain.com/transform/v3/eyJpdSI6ImUzOGRiZWM3NTA4NTM3ZDcyNTMxYjA4NDBjYmNmN2Q2ZjdlNzZiZjM5NDQ2ZTQxY2YzZTkwMzFmZGIxNTk3NjAiLCJ3IjoxMjQsImgiOjcwLCJkIjoxLjUsImNzIjowLCJmIjowfQ.jpg"
 				}
 	]
 }
